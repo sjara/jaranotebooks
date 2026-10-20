@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Scratch/old notebook copies
+old*
+temp_*
